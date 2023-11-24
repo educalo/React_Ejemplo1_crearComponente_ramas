@@ -1,0 +1,9 @@
+1.- npx create-react-app movies-react --use-npm, con este comando crea el esqueleto de react, esto lo he sacado de la pagina create-react-app.dev
+2.- cd movies-react
+3.- vemos como se han creado todo los ficheros base de nuestro proyecto
+4.- npm run, se nos haber nuestro navegador por defecto con la pagina inicial de react
+5.- En la carpeta src esta todo nuestro ficheros fuentes
+6.- Mirar fichero index.html dentro de public hay un div que tiene id=root donde se inyectará todos nuestros componentes que generara react
+7.- Mirar fichero inex.js
+8.- Borro los ficheros del src App.css, App.js, index.css, index.js, logo.svg, reportWebVitals, setupTests. En reseumen dejo dentro del src index.css y index.js
+9.- modfiico el fichero inde.js con las formas de renderizar codigo en React
