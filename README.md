@@ -1,5 +1,3 @@
-Para añadir un componente debemos crear una funcion que retorne todo lo que anteriormente hemos añadido en la constante contenido
+Añado props para pasarle datos al componente
 
-Un compente te devuelve contenido jsx
-
-Los componentes debe empezar en mayusculas, los que no empiezan por mayusculas son componentes propios de React
+paso las propiedades como expresiones props.Titulo y props.Contenido
