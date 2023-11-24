@@ -1,3 +1,14 @@
+Tener en cuenta:
+
+1.- npm install para instalar las dependencias definidas el fichero package.json. la carpeta node_modules esta incluida en .gitignore para no subirlas a github
+
+2.- npm start para iniciar el servidor web
+
+1.- git init para iniciar git en nuestro proyecto desde una terminal.
+
+2.- git log para comprobar el historico de uso de git en tu proyecto
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
