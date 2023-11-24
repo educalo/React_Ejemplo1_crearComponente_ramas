@@ -1,7 +1,7 @@
-Podemos simplicarlo utilizando desectructuracion
+Si queremos mejorar el codigo del punto 4 podriamos hacer lo siguiente
 
-Si utilizo esta forma es exactamente lo mismo que lo comentado dos lineas anteriores
+children son los hijos de mi componente
 
-function Componente ({titulo, contenido}) para desectructurar directamente en el paso de la props, si es asi sobraria la linea const {titulo, contenido}= props
+Ahora para utilizar los componentes lo pongo de la siguiente manera
 
 Al componente podemos pasarle atributos, en nuestro ejemplo seria Titulo y Contenido
