@@ -1,3 +1,5 @@
+IMPORTANTE LEER EL FICHERO leer.txt
+
 Tener en cuenta:
 
 Para crear el proyecto voy a la web https://create-react-app.dev/docs/getting-started donde veo los comandos necesarios para crear el esqueleto
