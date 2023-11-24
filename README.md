@@ -1,5 +1,11 @@
 Tener en cuenta:
 
+Para crear el proyecto voy a la web https://create-react-app.dev/docs/getting-started donde veo los comandos necesarios para crear el esqueleto
+npx create-react-app nombreapp
+cd nombreapp
+npm start
+
+
 1.- npm install para instalar las dependencias definidas el fichero package.json. la carpeta node_modules esta incluida en .gitignore para no subirlas a github
 
 2.- npm start para iniciar el servidor web
