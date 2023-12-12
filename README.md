@@ -2,4 +2,4 @@ Para añadir un componente debemos crear una funcion que retorne todo lo que ant
 
 Un compente te devuelve contenido jsx
 
-Los componentes debe empezar en mayusculas, los que no empiezan por mayusculas son componentes propios de React
+Los componentes debe empezar en mayúsculas, los que no empiezan por mayusculas son componentes propios de React
