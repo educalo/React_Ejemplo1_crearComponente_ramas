@@ -1,4 +1,4 @@
-Para añadir un componente debemos crear una funcion que retorne todo lo que anteriormente hemos añadido en la constante contenido
+Para añadir un componente debemos crear una función que retorne todo lo que anteriormente hemos añadido en la constante contenido
 
 Un compente te devuelve contenido jsx
 
