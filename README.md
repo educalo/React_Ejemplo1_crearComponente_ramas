@@ -23,6 +23,11 @@ npm start
 2.- git log para comprobar el historico de uso de git en tu proyecto
 
 
+### COSAS NUEVAS
+
+1.- Secuencia de creación de componentes con ramas
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
