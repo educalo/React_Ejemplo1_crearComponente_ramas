@@ -2,6 +2,9 @@ PROYECTO REACT
 
 IMPORTANTE LEER EL FICHERO leer.txt
 
+habitlitar la directiva de script en poweshell
+Set-ExecutionPolicy Unrestricted
+
 Tener en cuenta:
 
 Para crear el proyecto voy a la web https://create-react-app.dev/docs/getting-started donde veo los comandos necesarios para crear el esqueleto
