@@ -3,6 +3,7 @@ PROYECTO REACT
 IMPORTANTE LEER EL FICHERO leer.txt
 
 habitlitar la directiva de script en poweshell
+
 Set-ExecutionPolicy Unrestricted
 
 Tener en cuenta:
